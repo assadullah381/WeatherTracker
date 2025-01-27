@@ -8,4 +8,4 @@ WeatherTracker: An app to display live weather updates for cities worldwide.
 Tools we will use
 HTML
 CSS
-JAVASCRIPT
+JAVASCRIPT 
